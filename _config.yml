@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Suzanna Semaan"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/linkedin_pfp.jpg"
   bio    : "Master's student in applied mathematics at Bryn Mawr College. Passionate about exploring complex systems using emerging tech."
   links:
     - label: "Website"
