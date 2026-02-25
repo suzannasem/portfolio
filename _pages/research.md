@@ -1,3 +1,8 @@
+---
+permalink: /research/
+title: "Research"
+---
+
 # Research
 
 I'm currently working with Dr. Erica J. Graham of Bryn Mawr College to understand the impact of hormonal fluctuations on lesion growth in endometriosis. This model is the first incorporating hormonal and receptor-binding dynamics in disease onset.
