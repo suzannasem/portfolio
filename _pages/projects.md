@@ -2,10 +2,11 @@
 permalink: /projects/
 title: "Projects"
 ---
-Page is being updated ~ Stay tuned!
+
+Page last updated January 2026 - new projects will be added in Spring 2026. (Sneak Peak: *MRI Reconstruction using PyTorch* and *Using LASSO to Build a Risk Model for Heart Disease*, among others!)
 
 ## Computational Neuroscience
-Includes neural networks, PCA, and reinforcement learning: [Full Repo](https://github.com/suzannasem/compneuro) contains 5 projects in Python.
+Includes **neural networks, PCA, and reinforcement learning**: [Full Repo](https://github.com/suzannasem/compneuro) contains 5 projects in Python, built with tensorflow.
 
 ## Modeling Lesion Growth in Endometriosis
 Work associated with my thesis research (WIP). [Link](https://github.com/suzannasem/endo)
